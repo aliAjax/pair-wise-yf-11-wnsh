@@ -5,8 +5,16 @@
       "code": "TP-清-014",
       "source": "地方碑刻残页",
       "paperSize": "42x68cm",
+      "warehouse": "北库",
+      "fiberAngle": 8,
+      "color": {
+        "l": 78,
+        "a": 3,
+        "b": 12
+      },
+      "thicknessMm": 0.12,
       "note": "边缘有旧折痕",
-      "createdAt": "2026-06-16T00:00:00.000Z"
+      "createdAt": "2026-09-23T20:26:33.272Z"
     }
   ],
   "damages": [
@@ -20,7 +28,8 @@
       "status": "pending",
       "repairNote": "",
       "batchId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
+      "trialId": null,
+      "createdAt": "2026-09-23T20:26:33.272Z",
       "repairedAt": null
     },
     {
@@ -33,9 +42,118 @@
       "status": "pending",
       "repairNote": "",
       "batchId": null,
-      "createdAt": "2026-06-16T00:00:00.000Z",
+      "trialId": null,
+      "createdAt": "2026-09-23T20:26:33.272Z",
       "repairedAt": null
     }
   ],
+  "paperSamples": [
+    {
+      "id": "ps_demo_a",
+      "code": "ZY-BK-001",
+      "name": "棉料宣纸样",
+      "warehouse": "北库",
+      "fiberAngle": 10,
+      "color": {
+        "l": 79,
+        "a": 3,
+        "b": 13
+      },
+      "thicknessMm": 0.12,
+      "receivedAt": "2026-06-01T09:00:00.000Z",
+      "note": "六月初入库"
+    },
+    {
+      "id": "ps_demo_b",
+      "code": "ZY-BK-014",
+      "name": "净皮宣纸样",
+      "warehouse": "北库",
+      "fiberAngle": 5,
+      "color": {
+        "l": 80,
+        "a": 4,
+        "b": 14
+      },
+      "thicknessMm": 0.13,
+      "receivedAt": "2026-06-05T09:00:00.000Z",
+      "note": ""
+    },
+    {
+      "id": "ps_demo_c",
+      "code": "ZY-BK-021",
+      "name": "仿古宣纸样",
+      "warehouse": "北库",
+      "fiberAngle": 12,
+      "color": {
+        "l": 74,
+        "a": 5,
+        "b": 18
+      },
+      "thicknessMm": 0.15,
+      "receivedAt": "2026-06-10T09:00:00.000Z",
+      "note": "色偏深"
+    },
+    {
+      "id": "ps_demo_d",
+      "code": "ZY-NK-007",
+      "name": "竹纸样",
+      "warehouse": "南库",
+      "fiberAngle": 8,
+      "color": {
+        "l": 78,
+        "a": 3,
+        "b": 12
+      },
+      "thicknessMm": 0.12,
+      "receivedAt": "2026-06-02T09:00:00.000Z",
+      "note": "在南库，用于同库房校验演示"
+    },
+    {
+      "id": "ps_demo_e",
+      "code": "ZY-BK-030",
+      "name": "粉连纸样（早入库）",
+      "warehouse": "北库",
+      "fiberAngle": 10,
+      "color": {
+        "l": 79,
+        "a": 3,
+        "b": 13
+      },
+      "thicknessMm": 0.12,
+      "receivedAt": "2026-06-20T09:00:00.000Z",
+      "note": "与ZY-BK-031三项差值相同"
+    },
+    {
+      "id": "ps_demo_f",
+      "code": "ZY-BK-031",
+      "name": "粉连纸样（晚入库）",
+      "warehouse": "北库",
+      "fiberAngle": 10,
+      "color": {
+        "l": 79,
+        "a": 3,
+        "b": 13
+      },
+      "thicknessMm": 0.12,
+      "receivedAt": "2026-06-22T09:00:00.000Z",
+      "note": "与ZY-BK-030三项差值相同"
+    },
+    {
+      "id": "ps_demo_g",
+      "code": "ZY-BK-045",
+      "name": "皮纸样",
+      "warehouse": "北库",
+      "fiberAngle": 90,
+      "color": {
+        "l": 70,
+        "a": 6,
+        "b": 20
+      },
+      "thicknessMm": 0.18,
+      "receivedAt": "2026-06-25T09:00:00.000Z",
+      "note": "纤维方向差较大"
+    }
+  ],
+  "trials": [],
   "batches": []
 }
